@@ -9,9 +9,10 @@
 
 
 ## Resource location
-Github Repository
-	
-- [https://github.com/agoncal/agoncal-application-cdbookstore](https://github.com/agoncal/agoncal-application-cdbookstore)
+
+Resource - [PluralSight] Java EE: The Big Picture (Oct 28, 2015)
+
+Github Repository - [https://github.com/agoncal/agoncal-application-cdbookstore](https://github.com/agoncal/agoncal-application-cdbookstore)
 
 ## Overview
 
@@ -44,7 +45,7 @@ The case study was developed using the following:
 
 ### Deployment and test scenario demo video
 
-[Watch video - server deployment, tests with arquillian and test scenario demo video]()
+[Watch video - 1.server deployment, tests with arquillian and test scenario demo video](https://youtu.be/_rCyKZoaJjg)
 
 ### Start Wildfly
 
