@@ -44,15 +44,15 @@ The case study was developed using the following:
 
 ### Deployment and test scenario demo video
 
-[Watch video - server deployment and test scenario demo video](https://youtu.be/wvFBOVaBYes)
+[Watch video - server deployment, tests with arquillian and test scenario demo video]()
 
 ### Start Wildfly
 
 Open a command line and navigate to the root of the Tomcat directory.
 The following shows the command line to start the server:
 
-For Linux:   WILDFLY_HOME/bin/startup.sh
-For Windows: WILDFLY_HOME\bin\startup.bat
+	For Linux:   WILDFLY_HOME/bin/startup.sh
+	For Windows: WILDFLY_HOME\bin\startup.bat
 
 ### Build and Deploy the application
 
